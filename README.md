@@ -2,8 +2,7 @@
 
 AUTO CLAIM FOR BLUM / @blum
 
-[![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cucumber_scripts)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cucumber-pickle/Cucumber)
+
 
 # Table of Contents
 - [BlumCum](#blumcum)
@@ -139,7 +138,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/cucumber-pickle/BlumCum.git
+   git clone https://github.com/DeepTV12/blm.git
    ```
 
 3. Enter the BlumCum folder
@@ -181,7 +180,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 3. Enter the BlumCum folder
    ```
-   cd BlumCum
+   cd blm
    ```
 
 4. Install the required modules/libraries.
