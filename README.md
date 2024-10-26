@@ -236,19 +236,6 @@ query_id=xxxxxxxxx-Rxxxxujhash=cxxxx
 | failed get task list  | This is because the server response doesn't provide the expected response. You can check the server response in the http.log file    |
 | cannot start game     | Similar to the above error, this is due to the server. You can check the server response in the http.log file                        |
 
-## This bot helpfull?  Please support me by buying me a coffee: 
-``` 0xc4bb02b8882c4c88891b4196a9d64a20ef8d7c36 ``` - BSC (BEP 20)
 
-``` UQBiNbT2cqf5gLwjvfstTYvsScNj-nJZlN2NSmZ97rTcvKz0 ``` - TON
-
-``` 0xc4bb02b8882c4c88891b4196a9d64a20ef8d7c36 ``` - Optimism
-
-``` THaLf1cdEoaA73Kk5yiKmcRwUTuouXjM17 ``` - TRX (TRC 20)
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For questions or support, please contact [CUCUMBER TG CHAT](https://t.me/cucumber_scripts_chat)
 
 # Thank You
